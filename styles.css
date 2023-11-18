@@ -195,4 +195,19 @@
 
 
 }
-    
+
+/*  Hero section css */
+.main {
+  background-color: #131313;
+}
+
+.main__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 0vh;
+    background-color: #131313;
+
+}
